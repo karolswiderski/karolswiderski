@@ -5,7 +5,7 @@
 <br>
 <br>
 
-latest project:  <a src="https://github.com/karolswiderski/Crypto-Tracker">CRYPTO_TRACKER</a>
+latest project:  <a href="https://github.com/karolswiderski/Crypto-Tracker">CRYPTO_TRACKER</a>
 
 <br>
  
