@@ -5,12 +5,14 @@
 <br>
 <br>
 
-latest project:  <a href="https://github.com/karolswiderski/Crypto-Tracker">CRYPTO_TRACKER</a>
+:-)
 
 <br>
  
 <!--
 **karolswiderski/karolswiderski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+latest project:  <a href="https://github.com/karolswiderski/Crypto-Tracker">CRYPTO_TRACKER</a>
 
 Here are some ideas to get you started:
 
